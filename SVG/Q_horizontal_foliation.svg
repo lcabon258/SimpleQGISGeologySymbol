@@ -60,17 +60,17 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <path
+    <path stroke-width="param(outline-width)" fill="param(outline)" 
        inkscape:connector-curvature="0"
        id="path1699"
        d="m 65.140476,94.232486 2.298205,5.524488 -2.298205,5.524486 -2.298202,5.52448 V 99.756972 88.707998 Z"
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
+    <path stroke-width="param(outline-width)" fill="param(outline)"
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.54555;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 60.544072,105.17726 -2.298205,-5.489747 2.298205,-5.489761 2.298202,-5.489735 v 10.979498 10.979505 z"
        id="path1699-9"
        inkscape:connector-curvature="0" />
-    <circle
+    <circle stroke="param(outline)" stroke-width="param(outline-width)" 
        r="10.9795"
        cy="99.687508"
        cx="62.842274"

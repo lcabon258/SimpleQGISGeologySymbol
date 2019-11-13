@@ -60,12 +60,12 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <path
+    <path stroke="param(outline)" stroke-width="param(outline-width)" fill="param(outline)"
        inkscape:connector-curvature="0"
        id="path16-9"
        d="M 63.218097,110.53492 V 88.575899"
        style="fill:#ff0000;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
+    <rect stroke="param(outline)" stroke-width="param(outline-width)" fill="param(outline)"
        style="fill:#ff0000;stroke:#ff0000;stroke-width:0.909557;stroke-linecap:square"
        id="rect1433"
        width="4.5689998"
